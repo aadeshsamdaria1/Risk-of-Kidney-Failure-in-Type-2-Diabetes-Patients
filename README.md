@@ -4,7 +4,7 @@
 This repository is for the MLH Final Project, which focuses on classifying and predicting medical information using various machine learning techniques. 
 ## Contents
 
- 'MLH_Final_Project.ipynb': Jupyter notebook containing all code, outputs, and explanations.
+ 'evaluate_kidney_failure_risk_diabetic.ipynb': Jupyter notebook containing all code, outputs, and explanations.
 
  'requirements.txt': File with all dependencies and their versions. It is required to specify them to recreate the code environment.
 
